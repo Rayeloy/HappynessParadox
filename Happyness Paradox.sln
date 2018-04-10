@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happyness Paradox", "Happyness Paradox.csproj", "{4DB42940-3DD1-F172-D77B-800B87348883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happyness Paradox.Editor", "Happyness Paradox.Editor.csproj", "{100C5CFD-3D0E-AEAB-2D09-F22D47FE433E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB42940-3DD1-F172-D77B-800B87348883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB42940-3DD1-F172-D77B-800B87348883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB42940-3DD1-F172-D77B-800B87348883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB42940-3DD1-F172-D77B-800B87348883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100C5CFD-3D0E-AEAB-2D09-F22D47FE433E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100C5CFD-3D0E-AEAB-2D09-F22D47FE433E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100C5CFD-3D0E-AEAB-2D09-F22D47FE433E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100C5CFD-3D0E-AEAB-2D09-F22D47FE433E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
